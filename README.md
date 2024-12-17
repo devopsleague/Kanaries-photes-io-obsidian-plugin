@@ -1,6 +1,6 @@
-# Photes IO Obsidian Plugin
+# Pixno(photes.io) Obsidian Plugin
 
-Welcome to the Photes IO Obsidian Plugin! This plugin helps you generate notes from photos, leveraging advanced AI capabilities.
+Welcome to the Pixno(photes.io) Obsidian Plugin! This plugin helps you generate notes from photos, leveraging advanced AI capabilities.
 
 ## Table of Contents
 - [Photes IO Obsidian Plugin](#photes-io-obsidian-plugin)
